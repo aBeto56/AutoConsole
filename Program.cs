@@ -8,6 +8,11 @@ namespace AutoConsole
 {
     internal class Program
     {
+        public static List<object> carlist= new List<object>();
+        public static void feladat()
+        {
+
+        }
         static void Main(string[] args)
         {
         }
